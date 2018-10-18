@@ -7,3 +7,19 @@ Codes for all Machine Learning Algorithms
 - Add the code into the respective folder.
 - Add the dataset which is being used.
 - Add a md file with the same name which contains the steps to run your code .
+
+
+# Algorithms
+Following Machine Learning Algorithm are available in this repository
+- Clustering-KMeans
+- Logistic Regression
+- Support Vector Machine
+- Random Forest
+- Naive Bayes Classifier
+- KNN
+- ID3
+- Kernel Principal Component Analysis
+- Neural Network (one hidden layer)
+- Dimensionality Reduction - Principal Component Analysis(PCA)
+- Dimensionality Reduction - Linear Discriminant Analysis(LDA)
+- Reinforcement Learning - Thompson Sampling
